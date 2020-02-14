@@ -7,7 +7,7 @@ int main()
 	scanf("%d",&n);
 	if(n==0)
 	{
-		printf("Nutral");
+		printf("Neutral");
 	}
 	else if(n>0)
 	{
